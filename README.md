@@ -7,6 +7,11 @@ The IoT Device Security Scanner is a powerful tool designed to scan your local n
 
 Whether you're securing your home network or conducting a security audit, this tool gives you peace of mind by ensuring that dangerous ports are detected and alerted in real-time.
 
+Media: 
+
+![image](https://github.com/user-attachments/assets/d44a231c-e930-49ff-95cc-77850bd460fd)
+
+
 Features
 Full Port Range Scanning: Allows scanning of all ports from 1 to 65535 for comprehensive security checks.
 
