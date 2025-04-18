@@ -40,8 +40,8 @@ Visual Studio: You’ll need Visual Studio or any C# IDE to run the project.
 
 Clone the Repo
 
-git clone https://github.com/yourusername/IoT-Device-Security-Scanner.git
-cd IoT-Device-Security-Scanner
+git clone https://github.com/dionabazi/IoT-DSS.git
+cd IoT-DSS
 Run the Project
 Open the solution file IoTDeviceSecurityScanner.sln in Visual Studio.
 
