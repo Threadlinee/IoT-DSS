@@ -1,0 +1,19 @@
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\bin\Debug\net8.0-windows\IoT Device Security Scanner.exe
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\bin\Debug\net8.0-windows\IoT Device Security Scanner.deps.json
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\bin\Debug\net8.0-windows\IoT Device Security Scanner.runtimeconfig.json
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\bin\Debug\net8.0-windows\IoT Device Security Scanner.dll
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\bin\Debug\net8.0-windows\IoT Device Security Scanner.pdb
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\IoT Device Security Scanner_MarkupCompile.cache
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\IoT Device Security Scanner.g.resources
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\IoT Device Security Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\IoT Device Security Scanner.AssemblyInfoInputs.cache
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\IoT Device Security Scanner.AssemblyInfo.cs
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\IoT Device Security Scanner.csproj.CoreCompileInputs.cache
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\IoT Device Security Scanner.dll
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\refint\IoT Device Security Scanner.dll
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\IoT Device Security Scanner.pdb
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\IoT Device Security Scanner.genruntimeconfig.cache
+C:\Users\diona\source\repos\IoT Device Security Scanner\IoT Device Security Scanner\obj\Debug\net8.0-windows\ref\IoT Device Security Scanner.dll

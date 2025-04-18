@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IoT Device Security Scanner/1.0.0": {
+        "runtime": {
+          "IoT Device Security Scanner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IoT Device Security Scanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
