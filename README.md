@@ -95,3 +95,5 @@ For any questions or suggestions, feel free to reach out to me at dionabazi5@gma
 If you like this project, feel free to [buy me a coffee](https://ko-fi.com/G2G114SBVV)!
 
 [![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
+
+## Educational Purposes Only!! Stay safe, stay ethical. ✌️
